@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "First",
+      "body": "Blablablabal\nbalabflasdf"
+    },
+    {
+      "id": 2,
+      "title": "Test",
+      "body": "some comment"
+    },
+    {
+      "id": 3,
+      "title": "Tesvt",
+      "body": "some comment"
+    }
+  ],
+
+
+  "zeitintervalle": [
+
+  ]
+}
